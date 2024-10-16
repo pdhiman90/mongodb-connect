@@ -20,5 +20,5 @@ class dbConnect{
 const value = process.env.MONGODB_URI;
 const newConn = new dbConnect(value);
 
-newConn.getconn();
-// module.exports = newConn;
+
+module.exports = newConn;
