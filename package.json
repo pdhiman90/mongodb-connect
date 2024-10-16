@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-connect",
+  "name": "mymongo-connection",
   "version": "1.0.0",
   "description": "connect mognodb by passing connection string",
   "main": "index.js",
